@@ -19,7 +19,7 @@ To set up and run the project locally:
 
 1. **Clone the repository:**
 	```bash
-	git clone <your-github-repo-link>
+	git clone https://github.com/altindur-dev/react-challenge.git
 	cd "React Challenge"
 	```
 
