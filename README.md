@@ -36,11 +36,6 @@ To set up and run the project locally:
 4. Open your browser and go to [http://localhost:5173] or (http://localhost:5174) to view the app.
 
 ## Requirements
-- Node.js (v16 or higher recommended)
+- Node.js 
 - npm
-
-
----
-Feel free to fork, modify, and use this project as needed!
-
 
